@@ -24,6 +24,6 @@ Desc: Turns off monitors.
 4) timems
 Usage 1: timems
 Desc 1: Returns the current time in milliseconds.
-Usage 2: timeme <command>
+Usage 2: timems <command>
 Desc 2: Executes a command and returns milliseconds ellapsed from start to end of command.
 ```
