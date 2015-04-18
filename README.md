@@ -5,6 +5,7 @@ CmdTools
 - Web: ISeeDeadPixel.com
 - Blog: evankale.blogspot.ca
 
+```
 Summary:
 Additional commands for Windows
 
@@ -14,7 +15,7 @@ Desc: Creates a popup dialog with <title> as the title, and <text> as the messag
 
 2) kill
 Usage: kill <process name>
-Desc:  Forcefully terminates a process matching <procress name> (wild card (*) accepted).
+Desc:  Forcefully terminates a process matching <procress name> (wild card (*) accepted), and any child processes started by it.
 
 3) screenoff
 Usage: screenoff
@@ -25,3 +26,4 @@ Usage 1: timems
 Desc 1: Returns the current time in milliseconds.
 Usage 2: timeme <command>
 Desc 2: Executes a command and returns milliseconds ellapsed from start to end of command.
+```
